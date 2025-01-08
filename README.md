@@ -17,6 +17,8 @@ step 1 involves using PowerShell to deploy three virtual machines with a pre-exi
 This is done using the cloud shell option on the Azure portal. 
 
 The deployment details : 
+
+
 ![image](https://github.com/user-attachments/assets/160db9e8-a190-411e-a9cf-aec8fa9f6396)
 ![image](https://github.com/user-attachments/assets/21feb46a-77f2-43bc-9aea-c47ef21011f5)
 NB: Make sure to create the resource group on the portal with the exact name provided as the $rgname parameter before deployment. 
